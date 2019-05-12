@@ -1,0 +1,7 @@
+/* css 주석처리 */
+/* 한글 등 안깨지게 */
+@charset "utf-8";
+
+p {
+   background-color: lightblue;
+}
